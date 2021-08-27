@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s4tw6e
 - 👀 I’m interested in CI/CD Coding for Networking
-- 🌱 I’m currently learning GCP Security Professional Certification and GCP GKE/Kubernetes
+- 🌱 I’m currently studying GCP Security Professional Certification and GCP GKE/Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
